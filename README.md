@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning c++ and hope to master it someday
 - 📫 How to reach me: goes160106@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i play guitar, keyboards and bass 
+- ⚡ Fun fact: i play guitar, keyboard and bass 
 
 <!---
 Raissa78/Raissa78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
