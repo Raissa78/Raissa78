@@ -1,4 +1,4 @@
-- 👋 Hey everyone, I’m @Raissa78
+- 👋 Hey everyone, I’m @RayGouhs
 - 👀 I’m interested in eletronics, music and steam locomotives
 - 🌱 I’m currently learning c++ and hope to master it someday
 - 📫 How to reach me: goes160106@gmail.com
